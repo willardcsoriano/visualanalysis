@@ -51,3 +51,50 @@ visualanalysis/
 ├── styles.css        # Stylesheet (if applicable)
 ├── images/           # Image assets (if any)
 └── README.md         # Project documentation
+```
+
+---
+
+## ⚙️ Installation
+
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/YOUR_USERNAME/visualanalysis.git
+   cd visualanalysis
+   ```
+
+2. Open `index.html` in your browser.
+
+---
+
+## 💻 Usage
+
+- Visit the **[Live Demo](https://willardcsoriano.github.io/visualanalysis/)** directly.  
+- Or run locally by opening `index.html` in any modern web browser.  
+
+---
+
+## 📸 Screenshots
+
+> *(Optional: Add a screenshot for visual preview. Example below.)*  
+
+![Visual Analysis Preview](images/preview.png)
+
+---
+
+## 📬 Contact
+
+👤 **Willard C. Soriano**  
+
+- [GitHub](https://github.com/willardcsoriano)  
+- [LinkedIn](https://www.linkedin.com/in/willardcsoriano)  
+- [Facebook](https://web.facebook.com/willardcsoriano/)  
+- 📧 [wcsoriano@mymail.mapua.edu.ph](mailto:wcsoriano@mymail.mapua.edu.ph)  
+
+---
+
+## 📜 License
+
+This project was created for **educational purposes**.  
+All analysis and text are original.  
+&copy; 2025 Willard C. Soriano  
