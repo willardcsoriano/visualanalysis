@@ -4,7 +4,7 @@
 [![Made With HTML/CSS](https://img.shields.io/badge/Made%20with-HTML%20%26%20CSS-blue.svg)]()  
 
 A **static website** presenting a visual analysis essay on Jonathan Yeo’s *Portrait of King Charles III*.  
-This project highlights both **web development skills** and **critical analysis skills**, created as part of a digital portfolio activity.  
+This project showcases **front-end web development** and **critical visual analysis**, combining design, layout, and humanities research in a digital format.
 
 🔗 **Live Demo:** [https://willardcsoriano.github.io/visualanalysis/](https://willardcsoriano.github.io/visualanalysis/)
 
@@ -93,8 +93,18 @@ visualanalysis/
 
 ---
 
+## Acknowledgments
+
+The base layout/UI structure of this project was adapted from a freeCodeCamp curriculum project.  
+All written analysis, content, and custom styling modifications are original works by the author.
+
+---
+
 ## 📜 License
 
-This project was created for **educational purposes**.  
-All analysis and text are original.  
-&copy; 2025 Willard C. Soriano  
+All rights reserved.
+
+This project and its contents are original works created for academic and portfolio purposes.  
+Unauthorized reproduction or redistribution of the written analysis is prohibited.
+
+© 2025 Willard C. Soriano
