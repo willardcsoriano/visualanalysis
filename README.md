@@ -15,11 +15,8 @@ This project showcases **front-end web development** and **critical visual analy
 - [Overview](#-overview)  
 - [Features](#-features)  
 - [Project Structure](#-project-structure)  
-- [Installation](#-installation)  
-- [Usage](#-usage)  
 - [Screenshots](#-screenshots)  
 - [Contact](#-contact)  
-- [License](#-license)  
 
 ---
 
@@ -67,13 +64,6 @@ visualanalysis/
 
 ---
 
-## 💻 Usage
-
-- Visit the **[Live Demo](https://willardcsoriano.github.io/visualanalysis/)** directly.  
-- Or run locally by opening `index.html` in any modern web browser.  
-
----
-
 ## 📸 Screenshots
 
 ### Hero Section  
@@ -88,10 +78,6 @@ visualanalysis/
 <img width="1366" height="728" alt="Visual Analysis Section" src="https://github.com/user-attachments/assets/caba03f5-e98b-45ea-b8cd-388ad756a6ee" />  
 *Breakdown of artistic elements, design principles, emotional impact, and contemporary relevance.*
 
-### Visual Analysis Preview  
-`[Looks like the result wasn't safe to show. Let's switch things up and try something else!]`  
-*Preview image summarizing the analysis framework used in the article.*
-
 ---
 
 ## 📬 Contact
@@ -100,8 +86,7 @@ visualanalysis/
 
 - [GitHub](https://github.com/willardcsoriano)  
 - [LinkedIn](https://www.linkedin.com/in/willardcsoriano)  
-- [Facebook](https://web.facebook.com/willardcsoriano/)  
-- 📧 [wcsoriano@mymail.mapua.edu.ph](mailto:wcsoriano@mymail.mapua.edu.ph)  
+- [wcsoriano@mymail.mapua.edu.ph](mailto:wcsoriano@mymail.mapua.edu.ph)  
 
 ---
 
@@ -111,12 +96,3 @@ The base layout/UI structure of this project was adapted from a freeCodeCamp cur
 All written analysis, content, and custom styling modifications are original works by the author.
 
 ---
-
-## 📜 License
-
-All rights reserved.
-
-This project and its contents are original works created for academic and portfolio purposes.  
-Unauthorized reproduction or redistribution of the written analysis is prohibited.
-
-© 2025 Willard C. Soriano
