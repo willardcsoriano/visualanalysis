@@ -39,18 +39,6 @@ The essay is titled:
 
 ---
 
-## ⚙️ Installation
-
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/YOUR_USERNAME/visualanalysis.git
-   cd visualanalysis
-   ```
-
-2. Open `index.html` in your browser.
-
----
-
 ## 📸 Screenshots
 
 ### Hero Section  
