@@ -48,7 +48,7 @@ The essay is titled:
 ```plaintext
 visualanalysis/
 ├── index.html        # Main essay page
-├── styles.css        # Stylesheet (if applicable)
+├── styles.css        # Stylesheet 
 ├── images/           # Image assets (if any)
 └── README.md         # Project documentation
 ```
