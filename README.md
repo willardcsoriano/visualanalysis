@@ -76,9 +76,27 @@ visualanalysis/
 
 ## 📸 Screenshots
 
-> *(Optional: Add a screenshot for visual preview. Example below.)*  
+### Hero Section  
+<img width="1366" height="728" alt="Hero Section" src="https://github.com/user-attachments/assets/45162d13-438d-4e5f-8713-833fd4563f77" />  
+*The landing banner featuring the portrait of King Charles III with headline and subtitle.*
 
-![Visual Analysis Preview](images/preview.png)
+---
+
+### First Paragraph & Context  
+<img width="1366" height="728" alt="Introductory Text" src="https://github.com/user-attachments/assets/cc67c934-f08c-44d5-b330-cad1846575d3" />  
+*Opening section of the article introducing Jonathan Yeo’s portrait and its reception.*
+
+---
+
+### Visual Analysis Section  
+<img width="1366" height="728" alt="Visual Analysis Section" src="https://github.com/user-attachments/assets/caba03f5-e98b-45ea-b8cd-388ad756a6ee" />  
+*Breakdown of artistic elements, design principles, emotional impact, and contemporary relevance.*
+
+---
+
+### Visual Analysis Preview  
+`[Looks like the result wasn't safe to show. Let's switch things up and try something else!]`  
+*Preview image summarizing the analysis framework used in the article.*
 
 ---
 
