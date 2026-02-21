@@ -14,7 +14,6 @@ This project showcases **front-end web development** and **critical visual analy
 
 - [Overview](#-overview)  
 - [Features](#-features)  
-- [Project Structure](#-project-structure)  
 - [Screenshots](#-screenshots)  
 - [Contact](#-contact)  
 
@@ -37,18 +36,6 @@ The essay is titled:
 - 🎨 **Modern Styling**: Clean HTML/CSS with emphasis on readability  
 - 📱 **Responsive Design**: Layout adapts to desktop and mobile devices  
 - 🌐 **Deployed Online**: Hosted on GitHub Pages for accessibility  
-
----
-
-## 🗂 Project Structure
-
-```plaintext
-visualanalysis/
-├── index.html        # Main essay page
-├── styles.css        # Stylesheet 
-├── images/           # Image assets (if any)
-└── README.md         # Project documentation
-```
 
 ---
 
